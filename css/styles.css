@@ -1,5 +1,6 @@
-.body{
- background-color: coral;
+.body {
+ background-image: url(img/bg1.jpg);
+ background-color: cornsilk;
 }
 
 .button {
@@ -12,16 +13,16 @@
 
 .button ul {
   list-style: none;
+  align-content: center;
 }
 
 .button ul li {
-  align-items: center;
+ text-align: center; 
 }
 
 .button ul li a {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding: 2px;
-  text-align: center;
   font-size: 20px;
   text-decoration: none;
   color: white;
