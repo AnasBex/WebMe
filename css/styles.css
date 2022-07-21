@@ -3,8 +3,8 @@
 }
 
 .button {
-  border-radius: 5px;
-  width: 190px;
+  border-radius: 10px;
+  width: 200px;
   background-color: #42445A;
   padding: 3px;
   align-content: center;
@@ -19,13 +19,15 @@
 }
 
 .button ul li a {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   padding: 2px;
   text-align: center;
-  font-size: 25px;
+  font-size: 20px;
   text-decoration: none;
   color: white;
 }
 .button h1 {
+  font-family: sans-serif;
   padding: 1px;
   font-size: 10px;
   color: white;
