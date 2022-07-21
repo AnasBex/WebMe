@@ -1,3 +1,33 @@
 .body{
  background-color: coral;
 }
+
+.button {
+  border-radius: 5px;
+  width: 190px;
+  background-color: #42445A;
+  padding: 3px;
+  align-content: center;
+}
+
+.button ul {
+  list-style: none;
+}
+
+.button ul li {
+  align-items: center;
+}
+
+.button ul li a {
+  padding: 2px;
+  text-align: center;
+  font-size: 25px;
+  text-decoration: none;
+  color: white;
+}
+.button h1 {
+  padding: 1px;
+  font-size: 10px;
+  color: white;
+  text-align: center;
+}
