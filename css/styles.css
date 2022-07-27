@@ -4,10 +4,20 @@
 html, body{
   min-height: 100%;
   font-family: 'Bitter', serif;
-  background: #373949;
+  background-color: #42445A;
+  background-image: url(../img/bg2.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 
+}
+.container{
+  position: relative;
+  padding: 0px;
+  width: 100%;
+  background-color: #393538;
 }
 h1{
-  color: #ccc;
+  color: #FFFFFF;
   font-size: 2.5em;
   margin-bottom: .5em;
   text-align: center;
@@ -16,8 +26,9 @@ h1{
 h2{
   text-align: center;
   font-size: 1.2em;
-  color: #ccc;
-  margin-bottom: 2em
+  color: #FFFFFF;
+  margin-bottom: 2em;
+  text-shadow: 0.0625em 0.0625em 0.0625em #666;
 }
 
 a.author {

@@ -1,0 +1,29 @@
+{"status" : "success" , "url" : "" , "home" : {
+  "anime_list" : [{
+    "thumb" : "" ,
+    "title" : "" ,
+    "link" : "" ,
+    "eps" : "" ,
+    "date" : "" ,
+    "url" : ""
+  } ,
+  {
+    "thumb" : "" ,
+    "title" : "" ,
+    "link" : "" ,
+    "eps" : "" ,
+    "date" : "" ,
+    "url" : ""
+  } ,
+  {
+    "thumb" : "" ,
+    "title" : "" ,
+    "link" : "" ,
+    "eps" : "" ,
+    "date" : "" ,
+    "url" : ""
+  }
+    ]
+}
+  
+}
